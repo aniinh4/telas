@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  background-color: #F0FBEF;
+}
+
+main {
+  width: 1920px;
+  float: left;
+  position: relative;
+}
+
+.titulo {
+  text-align: left;
+}
+
+.centro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+.botoes {
+  width: 310px;
+  display: flex;
+  justify-content: center;
+  size: 400px;
+}
+
+h2 {
+  color: #9CC398;
+  text-align: center;
+  font-size: 40px;
+}
+
+.gana {
+  font-weight: bold;
+}

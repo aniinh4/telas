@@ -1,0 +1,316 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    font-size: 14px;
+  }
+  .classe15 {
+    width: 100%;
+    height: 1056px;
+    background: rgba(240,251,239,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .Horário {
+    width: 159px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 634px;
+    left: 193px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .Escolhaseudia {
+    width: 322px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 400px;
+    left: 175px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .Agendar {
+    width: 180px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 400px;
+    left: 1063px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .classe14 {
+    width: 621px;
+    height: 64px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 505px;
+    left: 1063px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    overflow: hidden;
+  }
+  .classe4 {
+    width: 621px;
+    height: 72px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 513px;
+    left: 92px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .classe5 {
+    width: 621px;
+    height: 72px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 740px;
+    left: 92px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .classe7 {
+    width: 621px;
+    height: 72px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 1331px;
+    left: 92px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .Agendadas {
+    width: 235px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 280px;
+    left: 96px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .Passadas {
+    width: 235px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 212px;
+    left: 83px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 413%;
+    opacity: 1;
+    text-align: center;
+  }
+  .classe2 {
+    width: 85%;
+    height: 117px;
+    background: url("../images/v116_146.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    left: 32px;
+    overflow: hidden;
+  }
+  .menu {
+    width: 122px;
+    color: rgba(97,124,123,1);
+    position: absolute;
+    top: 40px;
+    left: 130px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 60px;
+    opacity: 1;
+    text-align: center;
+  }
+  .name {
+    color: #ffffff;
+  }
+  .name {
+    color: #fff;
+  }
+  .name {
+    color: #ffffff;
+  }
+  .classe8 {
+    width: 67px;
+    height: 63px;
+    background: url("../images/v116_154.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 177px;
+    left: 297px;
+    overflow: hidden;
+  }
+  .classe9 {
+    width: 67px;
+    height: 63px;
+    background: url("../images/v116_157.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 297px;
+    left: 331px;
+    overflow: hidden;
+  }
+  .classe10 {
+    width: 41px;
+    height: 40px;
+    background: url("../images/v116_167.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 529px;
+    left: 1631px;
+    overflow: hidden;
+  }
+  .classe11 {
+    width: 41px;
+    height: 40px;
+    background: url("../images/v116_174.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 529px;
+    left: 642px;
+    overflow: hidden;
+  }
+  .classe6 {
+    width: 41px;
+    height: 40px;
+    background: url("../images/v116_181.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 753px;
+    left: 642px;
+    overflow: hidden;
+  }
+  .Especialistas {
+    width: 191px;
+    color: rgba(147,147,147,1);
+    position: absolute;
+    top: 512px;
+    left: 1082px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 50px;
+    opacity: 1;
+    text-align: center;
+  }
+  .classe12 {
+    width: 135px;
+    height: 153px;
+    background: url("../images/v116_170.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 359px;
+    left: 58px;
+    overflow: hidden;
+  }
+  .classe13 {
+    width: 97px;
+    height: 109px;
+    background: url("../images/v116_179.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1199px;
+    left: 77px;
+    overflow: hidden;
+  }
+  .escolhas {
+    width: 158px;
+    color: rgba(180,180,180,1);
+    position: absolute;
+    top: 522px;
+    left: 112px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 50px;
+    opacity: 1;
+    text-align: center;
+  }
+  .escolhas1 {
+    width: 158px;
+    color: rgba(180,180,180,1);
+    position: absolute;
+    top: 740px;
+    left: 112px;
+    font-family: Economica;
+    font-weight: Regular;
+    font-size: 50px;
+    opacity: 1;
+    text-align: center;
+  }
+  .classe3 {
+    width: 97px;
+    height: 109px;
+    background: url("../images/v153_154.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 610px;
+    left: 78px;
+    overflow: hidden;
+  }
+  .menu2 {
+     height: 300px;
+    width: 500px;
+  }
+  .botoes{
+    width: 310px;
+  display: flex;
+  justify-content: center;
+  }

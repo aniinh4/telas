@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>MEDICAL GROUP|CADASTRO</title>
+    <link href="cadastro.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="menu">
+      <img src ="home.png" aling="up" class="t" style="width:3%;">
+    </div>
+
+    <div class="centro">
+      <img src="logoo.PNG">
+      <h2 class="cliente">Cadastro</h2>
+
+      <form id="cadastro-form">
+        <p></p>
+        <input type="text" name="nome_completo" placeholder="Nome completo:" class="botoes" id="nome_completo">
+        <p></p>
+        <input type="password" name="senha" placeholder="Criar senha:" class="botoes" id="senha">
+        <p></p>
+        <input type="password" name="confirmar_senha" placeholder="Confirmar senha:" class="botoes" id="confirmar_senha">
+        <p></p>
+        <input type="email" name="email" placeholder="E-mail:" class="botoes" id="email">
+        <p></p>
+        <input type="text" name="cpf" placeholder="CPF:" class="botoes" id="cpf">
+        <p></p>
+        <input type="text" name="telefone" placeholder="Telefone:" class="botoes" id="telefone">
+      </form>
+
+      <div class="botoes">
+        <button class="botao1" onclick="return Cadastro()">Criar Cadastro</button>
+      </div>
+    </div>
+    <script src="cadastro.js"></script>
+    <script>
+      const form = document.getElementById("cadastro-form");
+      const nomeCompleto = document.getElementById("nome_completo");
+      const senha = document.getElementById("senha");
+      const confirmarSenha = document.getElementById("confirmar_senha");
+      const email = document.getElementById("email");
+      const cpf = document.getElementById("cpf");
+      const telefone = document.getElementById("telefone");
+
+      const botao = document.querySelector(".botao1");
+
+      function Cadastro() {
+        var nome = nomeCompleto.value;
+        var senhaValue = senha.value;
+        var confirmarSenhaValue = confirmarSenha.value;
+        var emailValue = email.value;
+        var cpfValue = cpf.value;
+        var telefoneValue = telefone.value;
+
+        if (nome == "" || senhaValue == "" || confirmarSenhaValue == "" || emailValue == "" || cpfValue == "" || telefoneValue == "") {
+          alert("Por favor, preencha todos os campos.");
+          return false;
+        }
+        if (senhaValue != confirmarSenhaValue) {
+          alert("As senhas não correspondem.");
+          return false;
+        }
+        return true;
+        <p id="Cadastro realizado com sucesso!"></p>
+      }
+    </script>
+  </body>
+</html>
